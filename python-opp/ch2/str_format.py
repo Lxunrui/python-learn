@@ -18,3 +18,6 @@ name1 = 'asd'
 age1 = 22
 new_str3 = f"我是{name1},今年{age1}岁了"
 print(new_str3)
+
+# bool就是 True or false条件语句会用到
+# None空值就是没有值 a = '' （空字符串）or a = 0 （值是0）都不叫空。a = None叫空
